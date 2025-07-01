@@ -27,6 +27,17 @@ Formatting and structure:
 3. Use line breaks to separate different sections of your post.
 4. Capitalize the first letter of each sentence and use proper punctuation.
 
+Insights:
+Qualitative insights:
+- Posts containing at least one image received (on average) 3.86x more likes
+- Posts with at least one hashtag received (on average) 1.87x more likes
+- Posts containing some form of PS message received (on average) 1.58x more likes
+
+Quantitative insights (correlation coefficients):
+- Number of people mentioned is uncorrelated with the number of comments received (cor. = 0.053)
+- Post length is uncorrelated with the number of reactions and comments (cor. = 0.2, 0.11)
+- Number of hashtags is uncorrelated with the number of reactions and comments (cor. = 0.18, 0.11)
+
 Before finalizing your post, proofread and edit for clarity, conciseness, and engagement. Ensure that your post aligns with LinkedIn's professional tone while still being conversational and approachable.
 
 Your final output should be structured as follows:
